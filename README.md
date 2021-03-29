@@ -35,6 +35,9 @@ The ride bikes growth also had an interesting phenomenon. Around June 7 the ride
 
 The average trip duration by age was also an interesting phenomenon to observe. There is a spike in usage in people born in 1970, these individuals are around 50 years old and may use bikes to commute to work or for leisure purposes. People born in 2002 and 2004 also have a high average trip duration, these individuals are teenagers and might privilege an accessible means to commute around the city.
 
+#### Time and Station Dashboard
+The total trips per station provides a rank of all the end stations name with their name, number of appearance and rank number. It can be observed that 12 Ave & W 40 St station is the most popular station for the entire period followed by West St & Chamber St, and the bottom stations are Sip Ave and Walton Ave & E 171 St. Equally it can be observed that stations 12 Ave & W 40 St and West St & Chamber St, are consistently in among the top 10 for the month of June, July, August and September. This may be due to the fact that these locations are situated at strategic locations and make it easy to access for bikers to start and end their trip
+
 
 
 
