@@ -38,6 +38,8 @@ The average trip duration by age was also an interesting phenomenon to observe. 
 #### Time and Station Dashboard
 The total trips per station provides a rank of all the end stations name with their name, number of appearance and rank number. It can be observed that 12 Ave & W 40 St station is the most popular station for the entire period followed by West St & Chamber St, and the bottom stations are Sip Ave and Walton Ave & E 171 St. Equally it can be observed that stations 12 Ave & W 40 St and West St & Chamber St, are consistently in among the top 10 for the month of June, July, August and September. This may be due to the fact that these locations are situated at strategic locations and make it easy to access for bikers to start and end their trip
 
+In addition during summer, bike usage consistently increases 5-9am this could account for individuals commuting to work and in the 5pm – 6pm are very popular hours for bikers. 
+
 
 
 
