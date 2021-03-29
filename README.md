@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/GCjueAStKH9yU/giphy.gif" width="500" height="400" />  
+<img src="https://github.com/Claude-Hanfou/CitiBike-New-York/blob/main/gif.gif" width="500" height="400" />  
 
 
 # Background
