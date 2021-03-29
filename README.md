@@ -29,7 +29,7 @@ The slider shows that the month of June has stations spread away from each other
 #### User Based Dashboard
 This dashboard has a combination of visualizations based on the bike users. We can observe certain phenomenon’s . The User type has more subscribers as compared to customers and there is a high usage during morning rush hours for the subscribers. This couldbe linked to most subscribers are commuting to their workplace using bikes. 
 
-As for gender, there are more male bike users as compared to female bike users. This was an interesting phenomenon to notice. Also,males tend to ride more around 6pm to 7pm, while women seems to start their rides around 4pm. 
+As for gender, there are more male bike users as compared to female bike users. Males bikers are above 400 thousands and females users are slightly above 200 thousand users which shows a huge disparity between both. This was an interesting phenomenon to notice. Also, males tend to ride more around 6pm to 7pm, while women seem to peek around 5pm. 
 
 The ride bikes growth also had an interesting phenomenon. Around June 7 the rides were at 83.6% and drastically went down to 32.1% by July 12. This could be attributed to a rise in the covid virus during those periods or bikers commuting to work starting to work from home and therefore reducing the number of rides during those periods. By August 9th, 2020, the rides percentages went down to 7.9% and by September 27, the rides went to the negative to -48.4%. Again, these drastic changes can be attributed to the pandemic and less people commuting to work, parcs or other places.
 
