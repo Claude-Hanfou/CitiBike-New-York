@@ -1,6 +1,6 @@
 
 # Background
-New York Citi Bike Program is esponsible for overseeing the largest bike sharing program in the United States. In this project, Tableau was used to generate regular reports for city officials looking to publicize and improve the city program. The period of this project was Bike Trips in NYC between June 2020-September 2020.
+New York Citi Bike Program is esponsible for overseeing the largest bike sharing program in the United States. In this project, Tableau was used to generate regular reports for city officials looking to publicize and improve the city program. The period for this project was Bike Trips in NYC between June 2020-September 2020.
 
 The data file contains 4 csv files that were use to create the visualizations. The vizualizay=tions answered a series of questions among which :
 
