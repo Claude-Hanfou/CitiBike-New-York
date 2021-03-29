@@ -16,9 +16,6 @@ The data file contains 4 csv files that were use to create the visualizations. T
 #### These visualizations that can viewed at the webpage and Tableau public link provided below.
 
 
-## Webpage
-https://claude-hanfou.github.io/CitiBike-New-York
-
 ## Tablau Public
 https://public.tableau.com/profile/claude.hanfou#!/vizhome/CitiBikeNewYorkCity/CitiBikeStory?publish=yes
 ##  Citi Bike Analysis
