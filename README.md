@@ -5,7 +5,7 @@
 # Background
 New York Citi Bike Program is esponsible for overseeing the largest bike sharing program in the United States. In this project, Tableau was used to generate regular reports for city officials looking to publicize and improve the city program. The period for this project was Bike Trips in NYC between June 2020-September 2020.
 
-The data file contains 4 csv files that were use to create the visualizations. The visualizations answered a series of questions among which :
+The data for this project contains 4 csv files that were use to create the visualizations. The visualizations answered a series of questions among which :
 
 * A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map
 * What are the peak hours in which bikes are used during summer months?
@@ -16,7 +16,7 @@ The data file contains 4 csv files that were use to create the visualizations. T
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 * Today, what is the gender breakdown of active participants (Male v. Female)?
 
-#### These visualizations that can viewed at the webpage and Tableau public link provided below.
+#### These visualizations that can be viewed at the Tableau public link provided below.
 
 
 ## Tablau Public
