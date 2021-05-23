@@ -28,7 +28,7 @@ On this dashboard we can observe that the top start and end stations for the ent
 The slider shows that the month of June has stations spread away from each other as compared to the month of July, August and September
 
 #### User Based Dashboard
-This dashboard has a combination of visualizations based on the bike users. We can observe certain phenomenon’s . The User type has more subscribers as compared to customers and there is a high usage during morning rush hours for the subscribers. This couldbe linked to most subscribers are commuting to their workplace using bikes. 
+This dashboard has a combination of visualizations based on the bike users. We can observe certain phenomenon’s . The User type has more subscribers as compared to customers and there is a high usage during morning rush hours for the subscribers. This could be linked to most subscribers are commuting to their workplace using bikes. 
 
 As for gender, there are more male bike users as compared to female bike users. Males bikers are above 400 thousands and females users are slightly above 200 thousand users which shows a huge disparity between both. This was an interesting phenomenon to notice. Also, males tend to ride more around 6pm to 7pm, while women seem to peek around 5pm. 
 
